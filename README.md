@@ -1,5 +1,13 @@
 # Clojure Koans
 
+My solution to the *Clojure Koans* can be found in the solutions branch. Have
+fun with it.
+
+
+
+
+## Original README 
+
 The Clojure Koans are a fun and easy way to get started with Clojure - no
 experience assumed or required.  Just follow the instructions below to start
 making tests pass!
